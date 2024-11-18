@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">Age Calculator</string>
+        <string name="age_calculator">Age Calculator</string>
+        <string name="birthday">Date of Birth</string>
+        <string name="today_birthday">Todays Date</string>
+        <string name="calculate_btn">Calculate Age</string>
+        <string name="date_hint">MM/dd/yyyy</string>
+        <string name="age_result">Age: %1$d years</string>
+    </resources>
+
